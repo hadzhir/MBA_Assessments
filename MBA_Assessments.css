@@ -1,0 +1,47 @@
+h1{
+  font-size: 1.5rem;
+}
+
+h2{
+  font-size: 1rem;
+}
+
+div{
+   border-right: 1px solid;
+}
+
+#course1{
+  color: #192965;
+}
+
+#course2{
+  color: #faafff;
+}
+
+#course3{
+  color: #d45d79;
+}
+
+#course4{
+  color: #ee8572;
+}
+
+#course5{
+  color: #ffcc00;
+}
+
+#course6{
+  color: #3282b8;
+}
+
+#course7{
+  color: #3e206d;
+}
+
+#course8{
+  color: #50d890;
+}
+
+#course9{
+  color: #697c37;
+}
