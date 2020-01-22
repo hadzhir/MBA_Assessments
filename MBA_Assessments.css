@@ -1,4 +1,4 @@
-h1{
+ h1{
   font-size: 1.5rem;
 }
 
@@ -44,4 +44,11 @@ div{
 
 #course9{
   color: #697c37;
+}
+
+
+.carousel-control-next-icon {
+
+  color: red;
+  font-size: 20px;
 }
